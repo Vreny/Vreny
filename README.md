@@ -8,9 +8,9 @@
 ***
 
 ![#864CE0](https://via.placeholder.com/15/701DA0/000000?text=+) Some goals:
-  + **Scala**
-  + First serious **Java** project
-  + First serious **Python** project
+  + Learn **Scala**
+  + Create the first serious **Python** project
+  + Create the first serious **Java** project
 
 ***
 
