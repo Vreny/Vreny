@@ -1,16 +1,4 @@
-# `Vreny|ReHuh`
-
-<h1 align="center">-Current Knowledge-</h1>
-
-- **Python** since 08/01/2021
-- **Java** since  16/04/2021
-
-***
-
-![#864CE0](https://via.placeholder.com/15/701DA0/000000?text=+) Some goals:
-  + Learn **Scala**
-  + Create the first serious **Python** project
-  + Create the first serious **Java** project
+# ![#864CE0](https://via.placeholder.com/15/701DA0/000000?text=+) `Vreny|ReHuh`
 
 ***
 
