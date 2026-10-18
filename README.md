@@ -1,4 +1,4 @@
-# `Vreny|Kacper`
+# `Vreny`
 <details><summary> </summary>
 <p>
 
